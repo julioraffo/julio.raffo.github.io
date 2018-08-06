@@ -1,10 +1,15 @@
 theme: jekyll-theme-slate
 
-# Name of your site (displayed in the header)
-name: Jraffo
+# Matchit
 
-# Short bio or description (displayed in the header)
-description: Innovation Economist?
+## Stata
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/23555183
+About matchit
+
+## PHP
+
+Old Match stuff here
+
+# Freqindex (Stata)
+
+# More...
