@@ -1,5 +1,3 @@
-theme: jekyll-theme-slate
-
 # Matchit
 
 ## Stata
